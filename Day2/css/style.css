@@ -1,1 +1,5 @@
 /* my first css */
+ body {
+    background-color: #eda;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
